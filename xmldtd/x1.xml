@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="e1.xsl"?>
+<!DOCTYPE products [
+<!ELEMENT products (product+)>
+<!ELEMENT product (code, name, details, price, quantity)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT details (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+]>
+<products>
+    <product>
+        <code>01</code>
+        <name>ยาดมโป๊ยเซียน</name>
+        <details>น้ำมันยูคาลิปตัส 8.5% เมนทอล 42% การบูร 18.4% น้ำมันเขียว 8.1%</details>
+        <price>25</price>
+        <quantity>999</quantity>
+    </product>
+    <product>
+        <code>02</code>
+        <name>ยาดมนวลไทย</name>
+        <details>เกล็ดสะระแหน่ 20 กรัม การบูร 20 กรัม ยูคาลิปตัส 15 กรัม น้ำมันยูคาลิปตัส 5 กรัม</details>
+        <price>30</price>
+        <quantity>999</quantity>
+    </product>
+    <product>
+        <code>03</code>
+        <name>ยาดมตราวายุทอง</name>
+        <details>เกล็ดสะระแหน่, น้ำมันยูคาลิปตัส, น้ำมันกานพลู, พิมเสน, การบูร, เมนทอล</details>
+        <price>29</price>
+        <quantity>999</quantity>
+    </product>
+    <product>
+        <code>04</code>
+        <name>ยาดมเซียงเพียว</name>
+        <details>เปปเปอร์มินต์, น้ำมันยูคาลิปตัส, เลมอนกลาส</details>
+        <price>40</price>
+        <quantity>999</quantity>
+    </product>
+    <product>
+        <code>05</code>
+        <name>ยาดมมีโอรงจิต</name>
+        <details>เปปเปอร์มินต์ผสมบริสารจากการวิจัยวิทยาศาสตร์ สมุนไพรและสมุนไพรล้ำค่า</details>
+        <price>55</price>
+        <quantity>999</quantity>
+    </product>
+</products>
