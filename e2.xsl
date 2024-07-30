@@ -6,7 +6,7 @@
 <body>
 <table width="100%" border="1" style="border-collapse: collapse">
     <tr>
-        <td width="5%" bgcolor="black"><font face="MS Sans Serif" size="2" color="white"><b>=รหัส</b></font></td>
+        <td width="5%" bgcolor="black"><font face="MS Sans Serif" size="2" color="white"><b>รหัส</b></font></td>
         <td width="20%" bgcolor="black"><font face="MS Sans Serif" size="2" color="white"><b>ชื่อ</b></font></td>
         <td width="10%" bgcolor="black"><font face="MS Sans Serif" size="2" color="white"><b>นามสกุล</b></font></td>
         <td width="30%" bgcolor="black"><font face="MS Sans Serif" size="2" color="white"><b>ชื่อเล่น</b></font></td>
