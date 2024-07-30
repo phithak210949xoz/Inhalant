@@ -8,29 +8,29 @@ body{
     margin: 0;
 }
 .container{
-    background-color: #fff;
+    background-color: #800185;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 350px;
+    width: 400px;
     text-align: center;
 }
 h2{
     text-align: center;
-    color: #ff0000;
-    font-size: 200%;
+    color: #f199a5;
+    font-size: 150%;
 }
 .pro{
-    font-size: 200%;
+    font-size: 150%;
 }
 .cus{
-    font-size: 200%;
+    font-size: 150%;
 }
 .pur{
-    font-size: 200%;
+    font-size: 150%;
 }
 .emp{
-    font-size: 200%;
+    font-size: 150%;
 }
 a{
     color: #333; 
